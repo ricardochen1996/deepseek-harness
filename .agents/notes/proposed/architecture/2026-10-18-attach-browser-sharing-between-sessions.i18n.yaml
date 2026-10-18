@@ -1,0 +1,28 @@
+# Bilingual-pair consistency record for 2026-10-18-attach-browser-sharing-between-sessions.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write .agents/notes/proposed/architecture/2026-10-18-attach-browser-sharing-between-sessions.md
+/agent-note-let-a-profile-share-one-attached-browser-between-sessions:
+  en: 22456fa4bc0a1e96
+  zh: 643fc5555ba0e728
+/agent-note-let-a-profile-share-one-attached-browser-between-sessions/problem:
+  en: 039189412d7fe82f
+  zh: a64f3df6d6c62d25
+/agent-note-let-a-profile-share-one-attached-browser-between-sessions/proposal:
+  en: cf698cac4e8cdddc
+  zh: 2354aeadcb986d60
+/agent-note-let-a-profile-share-one-attached-browser-between-sessions/proposal/what-sharing-must-guarantee:
+  en: d0953a6d1b2803ee
+  zh: 8bc0ea7a87dd8f7a
+/agent-note-let-a-profile-share-one-attached-browser-between-sessions/alternatives-considered:
+  en: c897e70dd6bc1463
+  zh: d6aa253d8e9229f4
+/agent-note-let-a-profile-share-one-attached-browser-between-sessions/acceptance-criteria:
+  en: d0fbf42a551438f9
+  zh: 28d5a467bffe2621
+/agent-note-let-a-profile-share-one-attached-browser-between-sessions/risks:
+  en: 7a763741a750ab40
+  zh: 5e0c6251f3eb61a8
+/agent-note-let-a-profile-share-one-attached-browser-between-sessions/related:
+  en: b59ef91bffd4f2fd
+  zh: aac0842f7a42d92f
